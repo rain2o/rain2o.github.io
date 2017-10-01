@@ -22,6 +22,24 @@
   font-size: large;
 }
 
+a.profile {
+  color: #222;
+  text-decoration: none;
+  margin: 10px;
+}
+a.profile.linkedin:hover {
+  color: #0077B5;
+}
+a.profile.github:hover span {
+  color: #fff;
+}
+a.profile.github:hover .fa-inverse {
+  color: #24292e;
+}
+a.profile.fa-stack-overflow:hover {
+  color: #f48024;
+}
+
 @keyframes App-logo-slide-in {
   from { transform: translateY(-100px); }
   to { transform: translateY(0px); }
