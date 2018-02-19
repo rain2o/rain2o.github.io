@@ -1,5 +1,6 @@
 # rain2o.github.io
 
-This app is a work in progress as I have time outside of my other projects. Please continue to check back for updates. 
+This is the static deployment of my personal site built using React. 
+You can view this site at [https://rain2o.github.io](https://rain2o.github.io). 
 
-To view the final version of this app please go to [rain2o.github.io](https://rain2o.github.io).
+You can find the source code in the [dev](https://github.com/rain2o/rain2o.github.io/tree/dev) branch.
